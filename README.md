@@ -45,7 +45,7 @@ I am particularly interested in systems that do more than produce an answer.
 The projects I build are designed to expose the evidence, methodology,
 uncertainty, and limitations behind their outputs.
 
-## Selected systems
+## Project
 
 ### [ClaimGraph](https://github.com/TUPRAM/claim-graph)
 
@@ -79,7 +79,8 @@ automated execution, or predictive-performance claims.
 
 `Python` · `Time series` · `Simulation` · `Research engineering`
 
-## Selected analytical work
+
+## Research
 
 - **Tariff and Market Attention Analysis** | analyzed weekly Google Trends
   time-series data across 25 company-related search series using R, tidyverse,
@@ -91,18 +92,6 @@ automated execution, or predictive-performance claims.
 
 - **AI Bridge** | helped build an equity-focused labour-market prototype for
   upskilling and job matching as part of a national AI data challenge.
-
-## Recognition
-
-- **1st Place | TECHNATION 2025 AI Equity Data Challenge**  
-  AI Bridge was selected first among 86 participating teams.
-
-- **Gold Award | Advanced Innovation Global Competition, 2019**  
-  Developed an assistive mobility concept for visually impaired users.
-
-- **Indonesia Maju Scholarship, 2021**  
-  Fully funded university scholarship awarded through Indonesia's National
-  Achievement Center.
 
 ## Technical skills
 
