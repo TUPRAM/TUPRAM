@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<h3>Research software, statistical modeling, and inspectable decision systems</h3>
+<h3>Building a little bit of everything</h3>
 
 <p>
 I build tools that keep evidence, assumptions, uncertainty, and system
