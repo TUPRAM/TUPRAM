@@ -69,16 +69,6 @@ explicit.
 
 `Python` · `Geospatial analysis` · `Decision support` · `Reproducible data`
 
-### [RegimeLens](https://github.com/TUPRAM/regime-lens)
-
-A local-first platform for historical market-regime analysis, simulation,
-walk-forward validation, and risk diagnostics.
-
-It is designed for transparent historical research rather than live trading,
-automated execution, or predictive-performance claims.
-
-`Python` · `Time series` · `Simulation` · `Research engineering`
-
 
 ## Research
 
