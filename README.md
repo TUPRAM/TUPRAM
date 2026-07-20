@@ -45,31 +45,6 @@ I am particularly interested in systems that do more than produce an answer.
 The projects I build are designed to expose the evidence, methodology,
 uncertainty, and limitations behind their outputs.
 
-## Project
-
-### [ClaimGraph](https://github.com/TUPRAM/claim-graph)
-
-A graph-first workspace that turns difficult questions and source material
-into an inspectable map of claims, evidence, counterclaims, and unresolved
-gaps.
-
-Its central design goal is to keep provenance and disagreement visible instead
-of flattening research into a single generated response.
-
-`TypeScript` · `Graph interfaces` · `Provenance` · `Evidence systems`
-
-### [FloodGuard](https://github.com/TUPRAM/flood-guard)
-
-A GeoAI decision-support prototype that translates flood extent or probability
-into subdistrict-level preparedness priorities in Thailand.
-
-It connects spatial evidence to population exposure, road disruption, access,
-equity, and action classes while keeping its non-operational limitations
-explicit.
-
-`Python` · `Geospatial analysis` · `Decision support` · `Reproducible data`
-
-
 ## Research
 
 - **Tariff and Market Attention Analysis** | analyzed weekly Google Trends
